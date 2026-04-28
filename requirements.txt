@@ -7,4 +7,4 @@ scikit-learn
 streamlit
 tqdm
 seaborn
-python-3.10.13
+
