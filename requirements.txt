@@ -1,8 +1,8 @@
-numpy
+numpy==1.23.5
 opencv-python
 Pillow
 matplotlib
-tensorflow==2.11.0
+tensorflow-cpu==2.10.1
 scikit-learn
 streamlit
 tqdm
